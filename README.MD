@@ -1,0 +1,1 @@
+Example how to implement queue - dequeuer for API requests with background worker (.NET Framework 4.0 WPF)
